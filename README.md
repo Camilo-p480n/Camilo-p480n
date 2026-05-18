@@ -4,9 +4,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Camilo%20Pabón&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Data%20Engineer%20in%20Progress%20🚀&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <!-- Badges de redes -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-pabon)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/camilopabon)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-pabón-967403194)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p480n18@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Camilo-p480n)
 
 <!-- Typing SVG animado -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=43C6AC&center=true&vCenter=true&random=false&width=600&lines=Ingeniero+de+Datos+en+Formación;Pipelines+%7C+Backend+%7C+Cloud+Computing;Transformando+datos+crudos+en+soluciones)](https://git.io/typing-svg)
@@ -138,8 +138,8 @@ camilo = {
 
 > 💬 *Estoy siempre abierto a hablar sobre datos, código o nuevas oportunidades. ¡No dudes en contactarme!*
 
-[![LinkedIn](https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-pabon)
-[![Email](https://img.shields.io/badge/Enviar%20un%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Conectar%20en%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/camilo-pabón-967403194)
+[![Email](https://img.shields.io/badge/Enviar%20un%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:p480n18@gmail.com)
 
 </div>
 
